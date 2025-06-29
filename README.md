@@ -64,8 +64,3 @@ https://en.wikipedia.org/wiki/Elder_Futhark
 
 Shout out to https://apify.com 
 I would not have been able to do the instagram comment scraping without it.
-
-
-### Screenshots
-
-
