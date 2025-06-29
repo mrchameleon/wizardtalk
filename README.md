@@ -28,7 +28,8 @@ See comments in the rune map for characters that may have issues.
 https://en.wikipedia.org/wiki/Elder_Futhark
 
 
-```LATIN_TO_RUNIC = {
+```
+LATIN_TO_RUNIC = {
     'a': 'ᚨ',  # Ansuz
     'b': 'ᛒ',  # Berkano
     'c': 'ᚲ',  # Kaunan
@@ -56,7 +57,8 @@ https://en.wikipedia.org/wiki/Elder_Futhark
     'y': 'ᚤ',  # Yr
     'z': 'ᛉ',  # Approximate with Algiz
     ' ': ' ',  # Preserve spaces
-}```
+}
+```
 
 
 
